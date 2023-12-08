@@ -5,6 +5,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077)
 
-![](https://api.githubtrends.io/user/svg/JPChoyon/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
+![](https://api.githubtrends.io/user/svg/JPChoyon/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark&width=720)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JPChoyon&theme=2077&utcOffset=6)
