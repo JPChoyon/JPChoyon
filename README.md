@@ -1,7 +1,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JPChoyon&theme=2077)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JPChoyon&theme=neon&hide_border=true&card_width=720)](https://git.io/streak-stats)
+//[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JPChoyon&theme=neon&hide_border=true&card_width=720)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JPChoyon&theme=neon&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077)
 
