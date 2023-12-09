@@ -60,7 +60,7 @@
 <a href="https://github.com/JPChoyon/user-management-backend" target="_blank">Visit Server Side Code</a>
 </div>
 
-### 2.Techland 
+### 3.Techland 
  When a user clicks on a category product, the website shows data based on the category name. Users can also update and add products to the website, but they must be logged in to access these features. If a user doesn't have an account, they can create one from the register page.
 
 <div display='flex' >
