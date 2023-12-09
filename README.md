@@ -25,7 +25,7 @@
 
 
 
-<img width='750' src='https://api.githubtrends.io/user/svg/JPChoyon/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark'/>
+<img width='750' height='350' src='https://api.githubtrends.io/user/svg/JPChoyon/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark'/>
 
 
 # My Achivement   🏆
