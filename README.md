@@ -11,14 +11,20 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077) -->
 
 
-<p>
+<div>
+<div>
 <img width='400' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077'/>
-</p>
+</div>
+<div>
+<img width='400' src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JPChoyon&theme=2077&utcOffset=6'/>
+</div>
+
+</div>
 
 
 ![](https://api.githubtrends.io/user/svg/JPChoyon/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark&width=720)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JPChoyon&theme=2077&utcOffset=6)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JPChoyon&theme=2077&utcOffset=6) -->
 
 # My Achivement   
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
