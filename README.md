@@ -1,6 +1,6 @@
 <!-- banner image -->
 
-<img height='400' src='https://raw.githubusercontent.com/JPChoyon/JPChoyon/main/Assets/Images/photos/wallpaper.png'/>
+<img height='400' width='700' src='https://raw.githubusercontent.com/JPChoyon/JPChoyon/main/Assets/Images/photos/wallpaper.png'/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JPChoyon&theme=2077)
 
