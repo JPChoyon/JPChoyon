@@ -8,7 +8,12 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,react,vite,nextjs,figma,firebase,github,express,nodejs,mongodb)](https://skillicons.dev)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077) -->
+
+
+<p>
+<img width='400' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077'/>
+</p>
 
 
 ![](https://api.githubtrends.io/user/svg/JPChoyon/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark&width=720)
