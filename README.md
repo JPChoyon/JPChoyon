@@ -1,5 +1,6 @@
 <!-- banner image -->
-[![An old rock in the desert](https://raw.githubusercontent.com/JPChoyon/JPChoyon/main/Assets/Images/photos/wallpaper.png "JP Choyon Khan")](https://www.linkedin.com/in/jpchoyonkhan130)
+
+<img height='400' src='https://raw.githubusercontent.com/JPChoyon/JPChoyon/main/Assets/Images/photos/wallpaper.png'/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JPChoyon&theme=2077)
 
@@ -17,7 +18,7 @@
 
 <div style="display: flex;">
 
-<img width='400' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077'/>
+<img width='350' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077'/>
 
 <img width='400' src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JPChoyon&theme=2077&utcOffset=6'/>
 
