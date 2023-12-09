@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,react,vite,nextjs,figma,firebase,github,express,nodejs,mongodb)](https://skillicons.dev)
 
 
-# My Github Status 🔗
+# My Github Status 📊
 
 <div style="display: flex;">
 
