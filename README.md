@@ -32,10 +32,15 @@
 - your booking data is safe throw the jwt token.
 - in the home page its have scroll parallax.
 - in the home page has the aos annimation for better experience.
-<div display='flex' gap='10' >
+<div display='flex' >
+
 <a href="https://hotel-booking-jpck.web.app" target="_blank">Visit Website</a>
-<a href="https://hotel-booking-jpck.web.app" target="_blank">Client Side Code</a>
-<a href="https://hotel-booking-jpck.web.app" target="_blank">Visit Website</a>
+
+
+<a href="https://github.com/JPChoyon/Hotel-Booking" target="_blank">Visit Client Side Code</a>
+
+
+<a href="https://github.com/JPChoyon/Hotel-Booking-Backend" target="_blank">Visit Server Side Code</a>
 </div>
 
 # My Github Status 📊
