@@ -11,7 +11,7 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077) -->
 
 
-<div>
+<div style="display: flex;">
 <div>
 <img width='400' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077'/>
 </div>
