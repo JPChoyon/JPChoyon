@@ -22,7 +22,7 @@
 
 <div style="display: flex;">
 
-<img width='350' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077'/>
+<img width='250' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077'/>
 
 <img width='400' src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JPChoyon&theme=2077&utcOffset=6'/>
 
