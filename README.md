@@ -1,4 +1,5 @@
-
+<!-- banner image -->
+[![An old rock in the desert](https://raw.githubusercontent.com/JPChoyon/JPChoyon/main/Assets/Images/photos/wallpaper.png "JP Choyon Khan")](https://www.linkedin.com/in/jpchoyonkhan130)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JPChoyon&theme=2077)
 
