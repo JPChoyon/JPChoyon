@@ -1,6 +1,6 @@
 <!-- banner image -->
 
-<img align='center' height='400' width='700' src='https://raw.githubusercontent.com/JPChoyon/JPChoyon/main/Assets/Images/photos/wallpaper.png'/>
+<img align='center' height='300' width='700' src='https://raw.githubusercontent.com/JPChoyon/JPChoyon/main/Assets/Images/photos/wallpaper.png'/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JPChoyon&theme=2077)
 
@@ -22,7 +22,7 @@
 
 <div style="display: flex;">
 
-<img width='250' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077'/>
+<img width='350' src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPChoyon&theme=2077'/>
 
 <img width='400' src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JPChoyon&theme=2077&utcOffset=6'/>
 
