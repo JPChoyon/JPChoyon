@@ -15,7 +15,7 @@
 
 
 # My Skill ⬇️
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,redux,tailwind,bootstrap,materialui,antdesign,react,vite,nextjs,figma,mongoose,prisma,postgresql,firebase,github,express,nodejs,mongodb)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,redux,tailwind,bootstrap,materialui,antdesign,react,vite,nextjs,figma,mongoose,prisma,postgresql,firebase,github,express,nodejs,mongodb)
 
 
 # My 3 Resent Website
