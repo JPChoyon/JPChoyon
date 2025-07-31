@@ -21,26 +21,37 @@
 # My 3 Resent Website
 
 ### 1. Rate My Byte
+Rate My Bite is a Next.js web application where users can discover, post, and review street food spots. The platform features premium content for subscribed users, an admin dashboard for content moderation, and a comprehensive street food discovery experience.
 
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js
+- **Styling**: Tailwind CSS
+- **Form Handling**: React Hook Form
+- **Validation**: Zod
+- **Authentication**: JWT
+- **Payment**: ShurjoPay
  
-- User Registration: Allow users to sign up for an account.
-- Authentication: Securely authenticate users with password hashing and token-based sessions.
-- Profile Management: Enable users to update their profiles, including password changes and email updates.
-- User Roles: Assign roles to users for different levels of access and permissions.
-- API Access: Integrate the system seamlessly into your application through a RESTful API.
+## ✨ Features
+
+  - **User Authentication**
+  - **Food Discovery**
+  - **Content Creation**
+  - **Admin Dashboard**
+  - **Responsive Design**
 
 <div display='flex' >
 
-<a href="https://usermangement-jpck.web.app" target="_blank">Visit Website</a>
+<a href="https://project-9-client-rho.vercel.app/" target="_blank">Visit Website</a>
 
 
-<a href="https://github.com/JPChoyon/user-management-system" target="_blank">Visit Client Side Code</a>
+<a href="https://github.com/JPChoyon/rate-my-bite-client" target="_blank">Visit Client Side Code</a>
 
 
-<a href="https://github.com/JPChoyon/user-management-backend" target="_blank">Visit Server Side Code</a>
+<a href="https://github.com/JPChoyon/rate-my-byte-server" target="_blank">Visit Server Side Code</a>
 </div>
 
-### 3.Techland 
+### 2.Techland 
  When a user clicks on a category product, the website shows data based on the category name. Users can also update and add products to the website, but they must be logged in to access these features. If a user doesn't have an account, they can create one from the register page.
 
 <div display='flex' >
