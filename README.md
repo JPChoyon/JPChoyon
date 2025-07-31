@@ -18,7 +18,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,redux,tailwind,bootstrap,materialui,react,vite,nextjs,figma,mysql,prisma,postgresql,firebase,github,express,nodejs,mongodb,docker,postman,visualstudio,aws,)
 
 
-# My 3 Resent Website
+# My 2 Resent Website
 
 ### 1. Rate My Byte
 Rate My Bite is a Next.js web application where users can discover, post, and review street food spots. The platform features premium content for subscribed users, an admin dashboard for content moderation, and a comprehensive street food discovery experience.
@@ -51,39 +51,39 @@ Rate My Bite is a Next.js web application where users can discover, post, and re
 <a href="https://github.com/JPChoyon/rate-my-byte-server" target="_blank">Visit Server Side Code</a>
 </div>
 
-### 2.Techland 
- When a user clicks on a category product, the website shows data based on the category name. Users can also update and add products to the website, but they must be logged in to access these features. If a user doesn't have an account, they can create one from the register page.
+### 2.DropSync 
+## Welcome to the Blood Donation System Website! This web application is built using Next.js, a React framework for building server-side rendered and statically generated web applications.
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js
+- **Styling**: Tailwind CSS
+- **Form Handling**: React Hook Form
+- **Validation**: Zod
+- **Authentication**: JWT
+
+## ✨ Features
+
+- User Authentication: Users can sign up, log in, and log out securely to access
+  the blood donation system functionalities.
+- Blood Donation Requests: Users can request blood donations by specifying their
+  blood type and the quantity needed.
+- Donor Registration: Donors can register themselves by providing their details
+  including blood type, contact information, and availability.
+- Search Donors: Users can search for donors based on their blood type,
+  location, and availability.
+- Dashboard: Users and donors have their personalized dashboards where they can
+  manage their requests, donations, and profile information.
 
 <div display='flex' >
 
-<a href="https://techland-jpck.web.app" target="_blank">Visit Website</a>
+<a href="https://blood-donation-binary-avengers.vercel.app/" target="_blank">Visit Website</a>
 
 
-<a href="https://github.com/JPChoyon/techland" target="_blank">Visit Client Side Code</a>
+<a href="https://github.com/JPChoyon/DropSync" target="_blank">Visit Client Side Code</a>
 
 
-<a href="https://github.com/JPChoyon/techland-backend" target="_blank">Visit Server Side Code</a>
-</div>
-
-### 3.Hotel Booking Website
-
-- you can booked a room when you logged in.
-- when you logged in then you see the room details page.
-- In details page you can booked the room on clicking the booked button .
-- When you booked a room then you see your booking data in the my booking section.
-- you can cancell the booked room in the my booking router,
-- your booking data is safe throw the jwt token.
-- in the home page its have scroll parallax.
-- in the home page has the aos annimation for better experience.
-<div display='flex' >
-
-<a href="https://hotel-booking-jpck.web.app" target="_blank">Visit Website</a>
-
-
-<a href="https://github.com/JPChoyon/Hotel-Booking" target="_blank">Visit Client Side Code</a>
-
-
-<a href="https://github.com/JPChoyon/Hotel-Booking-Backend" target="_blank">Visit Server Side Code</a>
+<a href="https://github.com/JPChoyon/Blood-donation-server" target="_blank">Visit Server Side Code</a>
 </div>
 
 
