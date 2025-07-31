@@ -11,11 +11,11 @@
 
 <jpchoyonkhan65@gmail.com> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JPChoyon&theme=neon&hide_border=true&card_width=720)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JPChoyon)](https://git.io/streak-stats)
 
 
 # My Skill ⬇️
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,react,vite,nextjs,figma,firebase,github,express,nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,redux,tailwind,bootstrap,materialui,antdesign,react,vite,nextjs,figma,mongoose,prisma,postgresql,firebase,github,express,nodejs,mongodb)](https://skillicons.dev)
 
 
 # My 3 Resent Website
@@ -60,7 +60,7 @@
 <a href="https://github.com/JPChoyon/user-management-backend" target="_blank">Visit Server Side Code</a>
 </div>
 
-### 2.Techland 
+### 3.Techland 
  When a user clicks on a category product, the website shows data based on the category name. Users can also update and add products to the website, but they must be logged in to access these features. If a user doesn't have an account, they can create one from the register page.
 
 <div display='flex' >
