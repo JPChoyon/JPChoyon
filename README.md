@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JPChoyon&theme=2077)
 
 <h1 align="center">Hi 👋, I'm J P Choyon khan</h1>
-<h3 align="center">Full Stack Developer Based On Font-End | React Developer | Dedicated In Coding </h3>
+<h3 align="center">Full Stack Developer Based On MEARN Stack | NextJS Developer | Dedicated In Coding </h3>
 
 ## Official Email Address
 
@@ -15,34 +15,14 @@
 
 
 # My Skill ⬇️
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,redux,tailwind,bootstrap,materialui,react,vite,nextjs,figma,mysql,prisma,postgresql,firebase,github,express,nodejs,mongodb,docker,postman,visualstudio,aws,)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,redux,tailwind,bootstrap,materialui,react,vite,nextjs,figma,mysql,prisma,postgresql,firebase,github,express,nodejs,mongodb,docker,postman,visualstudio,aws,)]
 
 
 # My 3 Resent Website
 
-### 1.Hotel Booking Website
+### 1. Rate My Byte
 
-- you can booked a room when you logged in.
-- when you logged in then you see the room details page.
-- In details page you can booked the room on clicking the booked button .
-- When you booked a room then you see your booking data in the my booking section.
-- you can cancell the booked room in the my booking router,
-- your booking data is safe throw the jwt token.
-- in the home page its have scroll parallax.
-- in the home page has the aos annimation for better experience.
-<div display='flex' >
-
-<a href="https://hotel-booking-jpck.web.app" target="_blank">Visit Website</a>
-
-
-<a href="https://github.com/JPChoyon/Hotel-Booking" target="_blank">Visit Client Side Code</a>
-
-
-<a href="https://github.com/JPChoyon/Hotel-Booking-Backend" target="_blank">Visit Server Side Code</a>
-</div>
-
-### 2.User Management System
-
+ 
 - User Registration: Allow users to sign up for an account.
 - Authentication: Securely authenticate users with password hashing and token-based sessions.
 - Profile Management: Enable users to update their profiles, including password changes and email updates.
@@ -73,6 +53,28 @@
 
 <a href="https://github.com/JPChoyon/techland-backend" target="_blank">Visit Server Side Code</a>
 </div>
+
+### 3.Hotel Booking Website
+
+- you can booked a room when you logged in.
+- when you logged in then you see the room details page.
+- In details page you can booked the room on clicking the booked button .
+- When you booked a room then you see your booking data in the my booking section.
+- you can cancell the booked room in the my booking router,
+- your booking data is safe throw the jwt token.
+- in the home page its have scroll parallax.
+- in the home page has the aos annimation for better experience.
+<div display='flex' >
+
+<a href="https://hotel-booking-jpck.web.app" target="_blank">Visit Website</a>
+
+
+<a href="https://github.com/JPChoyon/Hotel-Booking" target="_blank">Visit Client Side Code</a>
+
+
+<a href="https://github.com/JPChoyon/Hotel-Booking-Backend" target="_blank">Visit Server Side Code</a>
+</div>
+
 
 # My Github Status 📊
 
