@@ -16,12 +16,12 @@
 
 # My Skill ⬇️
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,redux,tailwind,bootstrap,materialui,react,vite,nextjs,figma,mysql,prisma,postgresql,firebase,github,express,nodejs,mongodb,docker,postman,visualstudio,aws,)
-### Education
+# Education
 
-   **Bachelor of Science in Geography and Environment**
-    National University Of Bangladesh
+**Bachelor of Science in Geography and Environment**
+National University Of Bangladesh
     
-# My 2 Resent Website
+# My 2 Recent Websites
 
 ### 1. Rate My Byte
 Rate My Bite is a Next.js web application where users can discover, post, and review street food spots. The platform features premium content for subscribed users, an admin dashboard for content moderation, and a comprehensive street food discovery experience.
@@ -107,7 +107,7 @@ Rate My Bite is a Next.js web application where users can discover, post, and re
 <img align='center' width='450' src='https://api.githubtrends.io/user/svg/JPChoyon/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark'/>
 
 
-# My Achivement   🏆
+# My Achievement   🏆
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 # Contact me   ☎️
