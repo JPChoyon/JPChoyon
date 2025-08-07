@@ -16,8 +16,11 @@
 
 # My Skill ⬇️
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,redux,tailwind,bootstrap,materialui,react,vite,nextjs,figma,mysql,prisma,postgresql,firebase,github,express,nodejs,mongodb,docker,postman,visualstudio,aws,)
+### Education
 
-
+   **Bachelor of Science in Geography and Environment**
+    National University Of Bangladesh
+    
 # My 2 Resent Website
 
 ### 1. Rate My Byte
