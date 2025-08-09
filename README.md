@@ -1,6 +1,6 @@
 <!-- banner image -->
 
-<img align='center' height='300' width='700' src='https://raw.githubusercontent.com/JPChoyon/JPChoyon/main/Assets/Images/photos/cover.png'/>
+<img align='center' height='300' width='900' src='https://raw.githubusercontent.com/JPChoyon/JPChoyon/main/Assets/Images/photos/cover.png'/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JPChoyon&theme=2077)
 
@@ -11,7 +11,7 @@
 
 <jpchoyonkhan65@gmail.com> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JPChoyon&theme=neon&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=250)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JPChoyon&theme=neon&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=900&card_height=300)](https://git.io/streak-stats)
 
 
 # My Skill ⬇️
