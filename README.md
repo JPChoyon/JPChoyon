@@ -104,7 +104,7 @@ Rate My Bite is a Next.js web application where users can discover, post, and re
 
 
 
-<img align='center' width='900' height='250' src='https://api.githubtrends.io/user/svg/JPChoyon/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark'/>
+<img align='center' width='900' height='450' src='https://api.githubtrends.io/user/svg/JPChoyon/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark'/>
 
 
 # My Achievement   🏆
