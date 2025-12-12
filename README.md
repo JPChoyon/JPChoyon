@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JPChoyon&theme=2077)
 
 <h1 align="center">Hi 👋, I'm J P Choyon khan</h1>
-<h3 align="center">Full Stack Developer Based On MEARN Stack | NextJS Developer | Dedicated In Coding </h3>
+<h3 align="center">Full Stack Developer | NextJS Developer | React Developer | Node JS Developer </h3>
 
 ## Official Email Address
 
